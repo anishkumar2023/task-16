@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+	background-color:#8080801c!important;
+}
+.section-1{
+	margin-top:5%;
+    	
+}
+.mx{
+	margin-left:100px;
+}	
+.col-7{
+	margin-left:0px;
+}
+.col-lg-5{
+	background-color:white;
+	box-shadow:0 0 2px solid black;
+	padding-bottom:200px!important:
+}
+.input{
+	padding:20px 0!important;
+}
+input:focus{
+	outline-color:blue!important;
+}
+input{
+	border:1px solid #8080801c;
+}
+.border-bottom{
+    border-bottom:1px solid gray;	
+}
+.bg-uccess{
+	background-color:#0ff088!important;
+}
+.rounde{
+border-radius: 1rem!important;
+}
